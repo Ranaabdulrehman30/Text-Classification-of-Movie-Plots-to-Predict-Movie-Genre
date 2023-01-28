@@ -1,0 +1,2 @@
+# Text-Classification-of-Movie-Plots-to-Predict-Movie-Genre
+Movies are a popular means of entertainment all around the world. With a lot of streaming services and websites available and with more on the horizon, building a predictive model that automatically generates the genre of a movie based on the its plot summary is definitely beneficial as it may reduce the expense of manually tagging the movies.
